@@ -57,7 +57,7 @@
 
 ## 🧐About
 
-I wanted a repeatable way to build-out testing environments, for script development along with testing of potentially destructive ssytem changes.
+I wanted a repeatable way to build-out testing environments, for script development along with testing of potentially destructive system changes.
 
 
 ## 💡Features
