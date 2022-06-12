@@ -1,0 +1,5 @@
+version: 1
+services:
+    antsle:
+      swagger-url: http://myantsle:3000/swagger.json
+      insecure_skip_verify: true
